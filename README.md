@@ -13,7 +13,7 @@ This project demonstrates version control and collaborative software development
 ## Simple Interest Calculator
 The `simple-interest.sh` script calculates simple interest using the principal amount, annual interest rate, and time period.
 
-**Formula:** Simple Interest = (Principal × Rate × Time) / 100
+**Formula:** Simple Interest = (Principal * Rate * Time) / 100
 
 ## Technologies
 - Git
