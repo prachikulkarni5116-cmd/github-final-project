@@ -1,16 +1,24 @@
 # Introduction to Git and GitHub
 
+## Project Overview
+This project demonstrates version control and collaborative software development using Git and GitHub.
+
+## Learning Objectives
+- Create and manage repositories.
+- Work with branches and commits.
+- Merge changes and resolve issues.
+- Collaborate using forks and pull requests.
+- Create a Bash script to calculate simple interest.
+
 ## Simple Interest Calculator
+The `simple-interest.sh` script calculates simple interest using the principal amount, annual interest rate, and time period.
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+**Formula:** Simple Interest = (Principal × Rate × Time) / 100
 
-```
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
-```
+## Technologies
+- Git
+- GitHub
+- Bash scripting
 
-_© 2022 XYZ, Inc._
+## License
+This project is licensed under the Apache License 2.0.
