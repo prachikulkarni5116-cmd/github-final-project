@@ -2,6 +2,7 @@
 #!/bin/bash
 
 echo "Simple Interest Calculator"
+echo "Calculate interest using principal, rate, and time."
 
 read -p "Enter principal amount: " principal
 read -p "Enter annual rate of interest (%): " rate
@@ -16,3 +17,4 @@ echo "Rate: $rate%"
 echo "Time: $time years"
 echo "Simple Interest: $interest"
 echo "Total Amount: $total"
+echo "Calculate interest using principal, rate, and time."
